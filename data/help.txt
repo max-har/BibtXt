@@ -1,0 +1,3 @@
+
+Bib.tXt takes as input a .txt file (including references) and a .bib file that constitutes the database of all reference-list entries. It chooses from the .bib file those entries specified by the .txt file (that is, those given by its \cite commands), and creates as output a .txt file in which all references are converted into author-year citations. Aditionally, Bib.tXt will use the input to produce a reference list that completes the output file.
+For additional information use the README file (README.TXT).

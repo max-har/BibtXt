@@ -1,0 +1,7 @@
+Habe nun, ach! Philosophie, Juristerei und Medizin, und leider auch Theologie durchaus studiert, mit heißem Bemühn \cite{Article42}. Da steh ich nun, ich armer Tor! Und bin so klug als wie zuvor \cite[vgl.][]{Book42}; heiße Magister, heiße Doktor gar \cite[42]{Booklet42} und ziehe schon an die zehen Jahr herauf, herab und quer und krumm meine Schüler an der Nase herum \cite[vgl.][42]{Conference42} - und sehe, daß wir nichts wissen können! Das will mir schier das Herz verbrennen \cite{Inbook42}.
+
+Zwar bin ich gescheiter als all die Laffen, Doktoren, Magister, Schreiber und Pfaffen \cite{Incollection42}; mich plagen keine Skrupel noch Zweifel \cite[vgl.][]{Inproceedings42}, fürchte mich weder vor Hölle noch Teufel \cite[42]{Manual42} - dafür ist mir auch alle Freud entrissen \cite[vgl.][42]{Mastersthesis42}, bilde mir nicht ein, was Rechts zu wissen, bilde mir nicht ein, ich könnte was lehren, die Menschen zu bessern und zu bekehren \cite{Misc42}.
+
+Auch hab ich weder Gut noch Geld, noch Ehr und Herrlichkeit der Welt \cite[vgl.][42f]{Phdthesis42}; es möchte kein Hund so länger leben! Drum hab ich mich der Magie ergeben \cite[vgl.][42ff]{Proceedings42}, ob mir durch Geistes Kraft und Mund nicht manch Geheimnis würde kund; daß ich nicht mehr mit saurem Schweiß zu sagen brauche, was ich nicht weiß \cite[vgl.][42]{Techreport42}; daß ich erkenne, was die Welt im Innersten zusammenhält, schau alle Wirkenskraft und Samen, und tu nicht mehr in Worten kramen \cite{Unpublished42}.
+
+- \cite{Goethe2000} -
